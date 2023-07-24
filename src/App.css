@@ -21,7 +21,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: red;
 }
 
 .App-link {
@@ -48,7 +48,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #000;
+  color: #002;
 }
 
 nav a {
